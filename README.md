@@ -1,0 +1,2 @@
+# EmoNoteAll
+My learning note
